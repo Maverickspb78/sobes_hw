@@ -1,7 +1,7 @@
 package HW1.task2;
 
 public class Engine {
-    String nameEngine;
+    private String nameEngine;
 
     public String getNameEngine() {
         return nameEngine;
